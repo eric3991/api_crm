@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Eric",
+      "empresa": "ERT",
+      "email": "eric_3991@hotmail.com",
+      "telefono": "630768441",
+      "notas": "wqeqw",
+      "id": 4
+    },
+    {
+      "nombre": "Carles",
+      "empresa": "Justafruit",
+      "email": "eric3991l@gmail.com",
+      "telefono": "644740978",
+      "notas": "Fruiteria",
+      "id": 5
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "3492",
+      "email": "eric_3991@hotmail.com",
+      "telefono": "345",
+      "notas": "fwefgwe",
+      "id": 6
+    }
+  ]
+}
